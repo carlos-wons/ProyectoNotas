@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_view_images"
+        android:title="Ver imagenes">
+    </item>
+    <item
+        android:id="@+id/item_view_files"
+        android:title="Ver archivos de texto"/>
+    <item android:id="@+id/item_view_video"
+        android:title="Ver videos"/>
+    <item
+        android:id="@+id/item_view_audios"
+        android:title="Ver audios"/>
+</menu>

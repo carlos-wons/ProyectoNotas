@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorCardView">
+
+        <TextView
+            android:id="@+id/titulo_mostrar_tarea"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textColor="@color/colorTexto"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/descripcion_mostrar_tarea"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="40dp"
+            android:textColor="@color/colorTexto"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/fecha_mostrar_tarea"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="80dp"
+            android:textColor="@color/colorTexto"
+            android:textSize="18sp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

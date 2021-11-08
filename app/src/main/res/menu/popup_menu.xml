@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_add_from_gallery"
+        android:title="Agregar de galeria"
+        android:icon="@drawable/ic_agregar_archivo">
+    </item>
+    <item android:id="@+id/item_add_from_camera"
+        android:title="Agregar de camara">
+    </item>
+    <item android:id="@+id/item_add_file"
+        android:title="Agregar archivo">
+    </item>
+    <item
+        android:id="@+id/item_take_video"
+        android:title="Grabar video"/>
+    <item
+        android:id="@+id/item_add_audio"
+        android:title="Grabar audio"/>
+</menu>

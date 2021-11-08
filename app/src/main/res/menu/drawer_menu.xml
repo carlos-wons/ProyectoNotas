@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Principal">
+        <menu>
+            <item
+                android:id="@+id/agregar_nota"
+                android:icon="@drawable/ic_agregar_nota"
+                android:title="Ver notas"></item>
+            <item
+                android:id="@+id/agregar_tarea"
+                android:icon="@drawable/ic_agregar_tarrea"
+                android:title="Ver tareas"></item>
+        </menu>
+    </item>
+
+    <item android:title="Opciones adicionales">
+        <menu>
+
+        </menu>
+    </item>
+</menu>

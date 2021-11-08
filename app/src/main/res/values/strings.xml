@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="descripcion">Descripción</string>
+    <string name="option">Opciones</string>
+    <string name="title">Título</string>
+    <string name="description">Descripción</string>
+    <string name="add_desc">Agregar descripción</string>
+    <string name="date">Fecha</string>
+    <string name="notas">Notas</string>
+    <string name="tareas">Tareas</string>
+    <string name="agregar_tareas">Agregar tarea</string>
+    <string name="agregar_notas">Agregar nota</string>
+    <string name="modificar_notas">Ver nota</string>
+    <string name="modificar_tareas">Ver tarea</string>
+    <string name="Aceptar">Aceptar</string>
+
+
+
+
+</resources>
